@@ -1,18 +1,18 @@
-# MR DREW0 — Hub Ufficiale
+# NEBBO_RICCIO — Hub Ufficiale
 
 **Minecraft • Live • Video**
 
-🌐 **Sito Web**: [Apri l'HUB](https://zema-tech.github.io/mrdrew0-hub/)
+🌐 **Sito Web**: [Apri l'HUB](https://zema-tech.github.io/nebbo-riccio/)
 
-Hub ufficiale di Mr Drew0: video PvP, live Twitch, link, abbonamenti e candidature staff.
+Hub ufficiale di Nebbo_riccio: video PvP, live Twitch, link, abbonamenti e candidature staff.
 
 ## Sviluppo
 
 Il sito è una app React + Vite + Supabase. I sorgenti vivono in
-[`zema-tech/Sito-Mr-Drew0`](https://github.com/zema-tech/Sito-Mr-Drew0);
+[`zema-tech/nebbo-riccio-source`](https://github.com/zema-tech/nebbo-riccio-source);
 questo repo contiene la **build pubblicata** su GitHub Pages (`main` /root).
 
-Per ripubblicare: `npm run build -- --base=/mrdrew0-hub/` in `Sito-Mr-Drew0`
+Per ripubblicare: `npm run build -- --base=/nebbo-riccio/` in `nebbo-riccio-source`
 e copiare `dist/*` qui (mantenendo `404.html` = copia di `index.html` per lo SPA routing).
 
 ## Link Principali
